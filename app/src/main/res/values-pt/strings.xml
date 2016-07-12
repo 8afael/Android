@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_username">Usuário</string>
+    <string name="btn_password">Senha</string>
+</resources>
